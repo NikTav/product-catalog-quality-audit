@@ -1,0 +1,21 @@
+﻿source_category,issue_type,severity,issue_count
+beverages,missing_nutrition_value,Medium,277
+beverages,missing_value,Medium,232
+beverages,missing_value,Low,26
+beverages,energy_unit_inconsistency,High,14
+beverages,missing_value,High,9
+beverages,placeholder_value,Medium,2
+beverages; snacks,cross_category_overlap,Low,1
+breakfast-cereals,missing_value,Medium,32
+breakfast-cereals,missing_nutrition_value,Medium,24
+breakfast-cereals,missing_value,Low,17
+breakfast-cereals,energy_unit_inconsistency,High,10
+breakfast-cereals,missing_value,High,5
+breakfast-cereals; snacks,cross_category_overlap,Low,3
+snacks,missing_nutrition_value,Medium,60
+snacks,missing_value,Medium,53
+snacks,missing_value,Low,17
+snacks,energy_unit_inconsistency,High,12
+snacks,missing_value,High,8
+snacks,nutrition_value_out_of_range,High,4
+snacks,placeholder_value,Medium,2

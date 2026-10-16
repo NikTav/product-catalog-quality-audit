@@ -1,0 +1,4 @@
+﻿source_category,records,unique_barcodes,average_completeness_score,main_category_field_missing_pct,category_tags_present_pct,name_present_pct,brand_present_pct,ingredients_present_pct,allergen_or_label_info_present_pct,core_nutrition_present_pct
+beverages,300,300,87.9,100.0,100.0,97.0,95.33333333333334,96.33333333333334,75.33333333333333,75.66666666666667
+breakfast-cereals,300,300,98.5,100.0,99.7,98.33333333333333,99.0,99.33333333333333,97.66666666666667,98.0
+snacks,300,300,97.3,100.0,100.0,97.33333333333334,98.0,99.0,97.66666666666667,94.66666666666667

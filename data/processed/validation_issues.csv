@@ -1,0 +1,809 @@
+﻿source_category,source_file,barcode,product_name,field,issue_type,severity,observed_value,recommended_action
+beverages,beverages_page_001.json,6111035000430,Sidi Ali,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111035002175,Sidi Ali,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111035002175,Sidi Ali,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_001.json,6111035002175,Sidi Ali,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111035002175,Sidi Ali,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111035002175,Sidi Ali,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111035000058,Eau minérale naturelle,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111252421568,اكوافينا,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,3274080005003,isabelle,allergens,placeholder_value,Medium,none,Verify the information or retain it as missing.
+beverages,beverages_page_001.json,3274080005003,isabelle,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_001.json,3274080005003,isabelle,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,3274080005003,isabelle,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,3274080005003,isabelle,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111128000071,Ain Saïss,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111128000071,Ain Saïss,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_001.json,6111128000071,Ain Saïss,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111128000071,Ain Saïss,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111128000071,Ain Saïss,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111035502828,Eau minéral naturelle,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111035000027,6111035000027,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,5449000054227,Cocacola original 500,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111252421582,اكوافينا,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111035003035,Oulmes natural carbonated water,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111035003035,Oulmes natural carbonated water,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_001.json,6111035003035,Oulmes natural carbonated water,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111035003035,Oulmes natural carbonated water,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111035003035,Oulmes natural carbonated water,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,5449000147417,Cappy PULPY,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111128000163,Ain Saiss Eau Minerale Naturelle,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111035001659,Ain Atlas,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111035001659,Ain Atlas,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_001.json,6111035001659,Ain Atlas,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111035001659,Ain Atlas,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111035001659,Ain Atlas,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111035001635,Ain Atlas,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111128000460,,product_name,missing_value,High,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_001.json,6111128000460,,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111128000460,,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_001.json,6111128000460,,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111128000460,,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111128000460,,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,3268840001008,CRISTALINE Eau De Source 0.5L,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,5449000214911,Coca-Cola Original,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,5449000061515,Ciel,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,42104964,Ciel 33cl,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111128000088,ain saiss 50cl,quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_001.json,6111128000088,ain saiss 50cl,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111035003523,,product_name,missing_value,High,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_001.json,6111035003523,,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111035003523,,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_001.json,6111035003523,,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111035003523,,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111035003523,,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111035003004,Oulmes Eau Gazeuse,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111018903161,Nescafé Classic,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111251420166,Eau,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111252421575,Aquafina 50cl,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,5449000214799,Coke Zero,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111035001673,Aïn Atlas 50cl,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,7394376616228,The original oat-ly barista edition oat drink,brands,missing_value,Medium,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_001.json,3057640257773,Eau Minérale Naturelle,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,5449000206770,Eau de table,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,5449000036872,Hawai Tropical,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6923818812082,Green Tea,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6923818812082,Green Tea,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=0.5; reported kJ=200.0; kJ-converted kcal=47.8,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+beverages,beverages_page_001.json,6111251420135,Aïn Ifrane,brands,missing_value,Medium,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_001.json,6111251420135,Aïn Ifrane,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111251420135,Aïn Ifrane,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111251420135,Aïn Ifrane,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111251420135,Aïn Ifrane,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,16256866,1848 Chocolat en poudre,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,16256866,1848 Chocolat en poudre,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_001.json,16256866,1848 Chocolat en poudre,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,16256866,1848 Chocolat en poudre,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,16256866,1848 Chocolat en poudre,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,8002270014901,S. Pellegrino Water,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,3068320123264,La salvetat,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,5449000131805,Coca-Cola Zero Sugar,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,54491472,Original ethiopian,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111035003509,"Bahia, Eau De Table",allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111032000631,Salim,brands,missing_value,Medium,None,Check the source and supply the information if it can be verified.
+beverages,beverages_page_001.json,6111032000631,Salim,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111032000631,Salim,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,5449000133328,Cocacola zero sugar,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,5449000131836,Coca-Cola Zero 500ml черная крышка,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,5449000000439,Coca Cola Original taste,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,3257971309114,Mont Roucous,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,42105220,Coca Cola,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,3033710073467,"Chicorée & Café, RICORÉ® L'Original, Boîte de 100g",allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,3033710073467,"Chicorée & Café, RICORÉ® L'Original, Boîte de 100g",energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_001.json,3033710073467,"Chicorée & Café, RICORÉ® L'Original, Boîte de 100g",proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,3033710073467,"Chicorée & Café, RICORÉ® L'Original, Boîte de 100g",fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,3033710073467,"Chicorée & Café, RICORÉ® L'Original, Boîte de 100g",carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111035502941,Eau minérale naturelle gazeuse,quantity,missing_value,Low,None,Check the source and supply the information if it can be verified.
+beverages,beverages_page_001.json,6111035502941,Eau minérale naturelle gazeuse,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,90382383,Cappy pulpy,quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_001.json,90382383,Cappy pulpy,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,7613039490266,Nesquik,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_001.json,7613039490266,Nesquik,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,7613039490266,Nesquik,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,7613039490266,Nesquik,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111242104198,برس اب الخوخ جودة 1لتر,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111250470209,,product_name,missing_value,High,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_001.json,6111250470209,,ingredients_text,missing_value,Medium,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_001.json,6111250470209,,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111035001024,Oulmès eau minerale naturellement gazeuse,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111035001024,Oulmès eau minerale naturellement gazeuse,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_001.json,6111035001024,Oulmès eau minerale naturellement gazeuse,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111035001024,Oulmès eau minerale naturellement gazeuse,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111035001024,Oulmès eau minerale naturellement gazeuse,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,7613035676497,"Chicorée & Café, RICORÉ® L'Original, Boîte de 260g",allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,7613035676497,"Chicorée & Café, RICORÉ® L'Original, Boîte de 260g",energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_001.json,7613035676497,"Chicorée & Café, RICORÉ® L'Original, Boîte de 260g",proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,7613035676497,"Chicorée & Café, RICORÉ® L'Original, Boîte de 260g",fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,7613035676497,"Chicorée & Café, RICORÉ® L'Original, Boîte de 260g",carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111250473453,Vip crema gold,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111250473453,Vip crema gold,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=0.5; reported kJ=0.5; kJ-converted kcal=0.1,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+beverages,beverages_page_001.json,6111251420272,Aïn Ifran Eau minérale naturelle,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111251420272,Aïn Ifran Eau minérale naturelle,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111251420272,Aïn Ifran Eau minérale naturelle,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111251420272,Aïn Ifran Eau minérale naturelle,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111035001383,Eau minerale,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111035001383,Eau minerale,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111035001383,Eau minerale,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111035001383,Eau minerale,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,5411188116592,Alpro tempting and tropical coco low fat,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111175000741,قهوة الطبيب,quantity,missing_value,Low,None,Check the source and supply the information if it can be verified.
+beverages,beverages_page_001.json,6111175000741,قهوة الطبيب,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111175000741,قهوة الطبيب,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_001.json,6111175000741,قهوة الطبيب,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111175000741,قهوة الطبيب,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111175000741,قهوة الطبيب,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,90338243,Coca-Cola original taste,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,90338243,Coca-Cola original taste,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,90338243,Coca-Cola original taste,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,3068320120256,Eau minérale naturelle,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,3124480191182,PET 2L OASIS TROPICAL,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111242107380,Press up,brands,missing_value,Medium,None,Check the source and supply the information if it can be verified.
+beverages,beverages_page_001.json,6111242107380,Press up,quantity,missing_value,Low,None,Check the source and supply the information if it can be verified.
+beverages,beverages_page_001.json,6111242107380,Press up,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111252422008,AQUAFINA,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111252422008,AQUAFINA,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_001.json,6111252422008,AQUAFINA,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111252422008,AQUAFINA,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111252422008,AQUAFINA,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,5449000015105,Sprite,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111017007013,Caobel,quantity,missing_value,Low,None,Check the source and supply the information if it can be verified.
+beverages,beverages_page_001.json,6111017007013,Caobel,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,3067140013120,Chicorée soluble nature,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,3067140013120,Chicorée soluble nature,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_001.json,3067140013120,Chicorée soluble nature,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,3067140013120,Chicorée soluble nature,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,3067140013120,Chicorée soluble nature,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111243860376,Ice Passion,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,7613032655495,"Chicorée & Café, RICORÉ® L'Original, Boîte de 260g",allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,7613032655495,"Chicorée & Café, RICORÉ® L'Original, Boîte de 260g",energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_001.json,7613032655495,"Chicorée & Café, RICORÉ® L'Original, Boîte de 260g",proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,7613032655495,"Chicorée & Café, RICORÉ® L'Original, Boîte de 260g",fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,7613032655495,"Chicorée & Café, RICORÉ® L'Original, Boîte de 260g",carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,3033710065783,Le Choco,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_001.json,3033710065783,Le Choco,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,3033710065783,Le Choco,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,3033710065783,Le Choco,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111032010128,Danone (zéro sucre ajouté zéro matière grasse),allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111032010128,Danone (zéro sucre ajouté zéro matière grasse),energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=48.0; reported kJ=21.5; kJ-converted kcal=5.1,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+beverages,beverages_page_001.json,6111035002359,Sidi Ali Kids,quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_001.json,6111035002359,Sidi Ali Kids,ingredients_text,missing_value,Medium,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_001.json,6111035002359,Sidi Ali Kids,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111035002359,Sidi Ali Kids,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111035002359,Sidi Ali Kids,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111035002359,Sidi Ali Kids,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,5449000135544,Ciel 50cl,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111128000217,Ain Saiss,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,3254380008430,"CRISTALINE Eau De Source Pétillante 1,5L",allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,3254380008430,"CRISTALINE Eau De Source Pétillante 1,5L",energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_001.json,3254380008430,"CRISTALINE Eau De Source Pétillante 1,5L",proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,3254380008430,"CRISTALINE Eau De Source Pétillante 1,5L",fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,3254380008430,"CRISTALINE Eau De Source Pétillante 1,5L",carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,6111018903185,Nescafe classic,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111018903185,Nescafe classic,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=10.0; reported kJ=10.0; kJ-converted kcal=2.4,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+beverages,beverages_page_001.json,9111445000430,eau minérale,quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_001.json,9111445000430,eau minérale,ingredients_text,missing_value,Medium,None,Check the source and supply the information if it can be verified.
+beverages,beverages_page_001.json,9111445000430,eau minérale,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,9111445000430,eau minérale,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_001.json,9111445000430,eau minérale,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,9111445000430,eau minérale,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,9111445000430,eau minérale,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,7613036249928,Vittel,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,7613036249928,Vittel,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_001.json,7613036249928,Vittel,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,7613036249928,Vittel,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,7613036249928,Vittel,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,3033710065967,NESQUIK Cacao,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_001.json,3033710065967,NESQUIK Cacao,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,3033710065967,NESQUIK Cacao,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,3033710065967,NESQUIK Cacao,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,4056489028109,Shot de gingembre bio,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111101001361,Asta,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111101001361,Asta,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=8.0; reported kJ=442.0; kJ-converted kcal=105.6,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+beverages,beverages_page_001.json,8445290133403,Nesquik,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_001.json,8445290133403,Nesquik,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,8445290133403,Nesquik,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,8445290133403,Nesquik,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_001.json,5060337221085,kefir drink original,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,5449000008046,Coca-Cola slim 25cl,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,5449000008046,Coca-Cola slim 25cl,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=42.0; reported kJ=70.4; kJ-converted kcal=16.8,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+beverages,beverages_page_001.json,3068320114453,Badoit 1 L PET,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111032009870,Raibi jamila,quantity,missing_value,Low,None,Check the source and supply the information if it can be verified.
+beverages,beverages_page_001.json,6111242106666,Jutos,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_001.json,6111242106666,Jutos,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=42.2; reported kJ=66.8; kJ-converted kcal=16.0,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+beverages,beverages_page_002.json,5449000267412,Coca-Cola goût original,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,6111243640831,شاي النسمة,ingredients_text,missing_value,Medium,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_002.json,6111243640831,شاي النسمة,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,6111243640831,شاي النسمة,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_002.json,6111243640831,شاي النسمة,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,6111243640831,شاي النسمة,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,6111243640831,شاي النسمة,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,6111242106277,Jutos cocktail,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_002.json,6111242106277,Jutos cocktail,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,6111242106277,Jutos cocktail,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,6111242106277,Jutos cocktail,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,6111251420142,AïnIfrane,brands,missing_value,Medium,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_002.json,6111251420142,AïnIfrane,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,5449000000286,,product_name,missing_value,High,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_002.json,5449000000286,,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,6111035001710,Ain Atlas 33cl EAU MINÉRALE NATURELLE,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,6111035001710,Ain Atlas 33cl EAU MINÉRALE NATURELLE,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_002.json,6111035001710,Ain Atlas 33cl EAU MINÉRALE NATURELLE,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,6111035001710,Ain Atlas 33cl EAU MINÉRALE NATURELLE,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,6111035001710,Ain Atlas 33cl EAU MINÉRALE NATURELLE,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,6111242926035,frut,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,6111271800016,,product_name,missing_value,High,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_002.json,6111271800016,,quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_002.json,6111271800016,,ingredients_text,missing_value,Medium,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_002.json,6111271800016,,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,6111271800016,,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_002.json,6111271800016,,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,6111271800016,,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,6111271800016,,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,7613035833272,Perrier,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,7613035833272,Perrier,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_002.json,7613035833272,Perrier,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,7613035833272,Perrier,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,7613035833272,Perrier,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,6111248360116,Eau,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,5449000232250,fuzetea saveur pêche 1l25,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,5449000036957,Poms 2,brands,missing_value,Medium,None,Check the source and supply the information if it can be verified.
+beverages,beverages_page_002.json,5449000036957,Poms 2,quantity,missing_value,Low,None,Check the source and supply the information if it can be verified.
+beverages,beverages_page_002.json,5449000036957,Poms 2,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,6111250470254,Classic,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,5000112611861,PET 1.75L COCA,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,7613035866386,CONTREX eau minérale naturelle,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,7613035866386,CONTREX eau minérale naturelle,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=0.0001; reported kJ=0.0001; kJ-converted kcal=0.0,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+beverages,beverages_page_002.json,6111242106673,Jutos,quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_002.json,6111242106673,Jutos,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,6111128001115,Ghaut,quantity,missing_value,Low,None,Check the source and supply the information if it can be verified.
+beverages,beverages_page_002.json,6111128001115,Ghaut,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,6111128001115,Ghaut,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_002.json,6111128001115,Ghaut,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,6111128001115,Ghaut,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,6111128001115,Ghaut,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,8445291061132,HEPAR,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,9002515601018,Pago Ace - Orange - Carotte - Citron,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,3033710074525,special filtre,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,3168930170549,Ice tea,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,20656935,Pétillante saveur citron,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,6111128000026,Sidi Harazem,brands,missing_value,Medium,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_002.json,6111128000026,Sidi Harazem,quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_002.json,6111128000026,Sidi Harazem,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,6111271800030,Eau de source naturelle La Source,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,6111271800030,Eau de source naturelle La Source,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_002.json,6111271800030,Eau de source naturelle La Source,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,6111271800030,Eau de source naturelle La Source,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,6111271800030,Eau de source naturelle La Source,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,8886303210238,Lait de coco,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,6111032002963,asiri fraise,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,3034470003107,Benco Original,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,3034470003107,Benco Original,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_002.json,3034470003107,Benco Original,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,3034470003107,Benco Original,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,3034470003107,Benco Original,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,54022263,cola,quantity,missing_value,Low,None,Check the source and supply the information if it can be verified.
+beverages,beverages_page_002.json,54022263,cola,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,20019907,Succo di limone,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=28.0; reported kJ=66.7; kJ-converted kcal=15.9,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+beverages,beverages_page_002.json,5034660021582,Hot Chocolate Powder,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,5034660021582,Hot Chocolate Powder,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_002.json,5034660021582,Hot Chocolate Powder,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,5034660021582,Hot Chocolate Powder,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,5034660021582,Hot Chocolate Powder,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,3168930159896,Ice Tea Pêche,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,6111032004448,Danup fraise,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=246.0; reported kJ=59.0; kJ-converted kcal=14.1,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+beverages,beverages_page_002.json,3664346306027,1848,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,3664346306027,1848,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_002.json,3664346306027,1848,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,3664346306027,1848,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,3664346306027,1848,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,0898999000503,Coconut Water,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,3124480186560,33CL CAN SLIM TROPICAL,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=287.0; reported kJ=120.0; kJ-converted kcal=28.7,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+beverages,beverages_page_002.json,3468570116601,ROZANA,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,3033710003228,RICORÉ® aux céréales et à la chicorée solubles Boîte 250g,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_002.json,3033710003228,RICORÉ® aux céréales et à la chicorée solubles Boîte 250g,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,3033710003228,RICORÉ® aux céréales et à la chicorée solubles Boîte 250g,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,3033710003228,RICORÉ® aux céréales et à la chicorée solubles Boîte 250g,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,5449000131843,Coca-Cola Zero,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,3033710077274,"NESCAFÉ NES, Café Soluble, Boîte de 200g",allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,6111243860383,ice POMME 1.5l,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,6111243860383,ice POMME 1.5l,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=58.0; reported kJ=168.3; kJ-converted kcal=40.2,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+beverages,beverages_page_002.json,6111252421971,Aquafina,quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_002.json,6111252421971,Aquafina,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,6111252421971,Aquafina,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_002.json,6111252421971,Aquafina,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,6111252421971,Aquafina,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,6111252421971,Aquafina,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,5449000132277,fanta tops lemon 1.5l,brands,missing_value,Medium,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_002.json,5449000132277,fanta tops lemon 1.5l,quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_002.json,5449000132277,fanta tops lemon 1.5l,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,3124480184344,Orangina,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_002.json,3124480184344,Orangina,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,3124480184344,Orangina,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,3124480184344,Orangina,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,5449000044808,Tonic water,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,6111128000477,Eau minérale,brands,missing_value,Medium,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_002.json,6111128000477,Eau minérale,quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_002.json,6111128000477,Eau minérale,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,6111032006985,Danao Pèche-Abricot,quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_002.json,6130234001147,Lala kheddidja,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,90162602,Energy Drink,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,8024884500403,COURMAYEUR Eau Minérale Naturelle 1.50 L,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,5000112611878,coca cola zero,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,5000112611878,coca cola zero,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_002.json,5000112611878,coca cola zero,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,5000112611878,coca cola zero,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,5000112611878,coca cola zero,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,50112784,Lemon,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,6194007510014,eau minérale naturelle,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,6194007510014,eau minérale naturelle,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_002.json,6194007510014,eau minérale naturelle,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,6194007510014,eau minérale naturelle,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,6194007510014,eau minérale naturelle,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,5060120281975,Oat Organic Drink,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,3502110009357,Pepsi Max,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,20920210,Chicorée Café,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,4056489997511,Bio Hafer,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,5410221305085,Schweppes Agrum',allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,3664346306003,Grand Arôme 32% de Cacao,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,3664346306003,Grand Arôme 32% de Cacao,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_002.json,3664346306003,Grand Arôme 32% de Cacao,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,3664346306003,Grand Arôme 32% de Cacao,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,3664346306003,Grand Arôme 32% de Cacao,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,5449000232311,FuzeTea Thé glacé pêche intense,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,8002270116544,San Pellegrino,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,5411188128311,Coco Sans Sucres,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,9002490205973,25 cl Red Bull - Energy Drink,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,3502110009449,Orangensaft,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,5010338014339,COCONUT MILK,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,3564700371107,Eau de source de montagne Laqueuille,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,20022952,Eau de source,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,20022952,Eau de source,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_002.json,20022952,Eau de source,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,20022952,Eau de source,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,20022952,Eau de source,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,6130758000022,Guedila,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,3187570015447,Café moulu pur arabica des petits producteurs,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,6111252420059,Pepsi 2L,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,3700278400881,Banania Original - Cacao Céréales Touche De Banane & Miel,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_002.json,3700278400881,Banania Original - Cacao Céréales Touche De Banane & Miel,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,3700278400881,Banania Original - Cacao Céréales Touche De Banane & Miel,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,3700278400881,Banania Original - Cacao Céréales Touche De Banane & Miel,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,3068320080000,Eau Evian - 1L,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,3254381025887,CRISTALINE Eau De Source 1L,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_002.json,3254381025887,CRISTALINE Eau De Source 1L,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_002.json,3254381025887,CRISTALINE Eau De Source 1L,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,3254381025887,CRISTALINE Eau De Source 1L,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,3254381025887,CRISTALINE Eau De Source 1L,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_002.json,8410261643014,Simon life,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,7613037792935,Nan Optipro 1,quantity,missing_value,Low,None,Check the source and supply the information if it can be verified.
+beverages,beverages_page_003.json,7613037792935,Nan Optipro 1,ingredients_text,missing_value,Medium,None,Check the source and supply the information if it can be verified.
+beverages,beverages_page_003.json,7613037792935,Nan Optipro 1,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,7613037792935,Nan Optipro 1,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_003.json,7613037792935,Nan Optipro 1,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,7613037792935,Nan Optipro 1,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,7613037792935,Nan Optipro 1,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,3664346315371,Grand Arôme moins de sucre,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,3664346315371,Grand Arôme moins de sucre,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_003.json,3664346315371,Grand Arôme moins de sucre,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,3664346315371,Grand Arôme moins de sucre,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,3664346315371,Grand Arôme moins de sucre,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,6194039501011,Eau minérale naturelle,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,6194039501011,Eau minérale naturelle,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_003.json,5449000025272,Haway tropical,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,5449000060068,Schweppes citron,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,6111248360123,Ain soltane 50cl,brands,missing_value,Medium,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_003.json,6111248360123,Ain soltane 50cl,quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_003.json,6111248360123,Ain soltane 50cl,ingredients_text,missing_value,Medium,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_003.json,6111248360123,Ain soltane 50cl,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,3092718637064,TSR GRENADINE 60 CL,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,3168930171058,Pêche Ice Tea,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,6194001800111,Safia,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,6194001800111,Safia,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_003.json,6194001800111,Safia,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,6194001800111,Safia,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,6194001800111,Safia,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,3033491485756,Yaourt à boire fraise framboise,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=254.666666666667; reported kJ=255.0; kJ-converted kcal=60.9,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+beverages,beverages_page_003.json,5449000133335,Coca-Cola Zero,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,3448781100002,Wattwiller,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,3448781100002,Wattwiller,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_003.json,3448781100002,Wattwiller,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,3448781100002,Wattwiller,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,3448781100002,Wattwiller,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,40822938,"Fanta 0,5",allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,0898999010007,Coconut Water,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,6111252422169,,product_name,missing_value,High,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_003.json,6111252422169,,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,3664346306126,Super Poulain,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_003.json,3664346306126,Super Poulain,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,3664346306126,Super Poulain,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,3664346306126,Super Poulain,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,3057640186158,"Wasser Volvic naturelle, 6erPack",allergens,placeholder_value,Medium,none,Verify the information or retain it as missing.
+beverages,beverages_page_003.json,7612100914199,Ovomaltine Céréal Energy,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_003.json,7612100914199,Ovomaltine Céréal Energy,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,7612100914199,Ovomaltine Céréal Energy,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,7612100914199,Ovomaltine Céréal Energy,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,5449000203823,Pulpy pècne,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,5000112611762,"coca cola zero 1,25L",allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,5000112611762,"coca cola zero 1,25L",energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_003.json,5000112611762,"coca cola zero 1,25L",proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,5000112611762,"coca cola zero 1,25L",fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,5000112611762,"coca cola zero 1,25L",carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,3124480185266,Orange citron,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_003.json,3124480185266,Orange citron,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,3124480185266,Orange citron,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,3124480185266,Orange citron,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,3100881040809,ST YORRE Eau Minérale Naturelle Naturellement Gazeuse 1.15 L,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,3100881040809,ST YORRE Eau Minérale Naturelle Naturellement Gazeuse 1.15 L,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_003.json,3100881040809,ST YORRE Eau Minérale Naturelle Naturellement Gazeuse 1.15 L,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,3100881040809,ST YORRE Eau Minérale Naturelle Naturellement Gazeuse 1.15 L,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,3100881040809,ST YORRE Eau Minérale Naturelle Naturellement Gazeuse 1.15 L,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,6111271800054,العين,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,6111271800054,العين,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_003.json,6111271800054,العين,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,6111271800054,العين,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,6111271800054,العين,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,3229820784939,Lait de coco fluide,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,5449000004840,Fanta Naranja,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,6191496000026,Eau minérale naturelle,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,6191496000026,Eau minérale naturelle,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_003.json,6191496000026,Eau minérale naturelle,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,6191496000026,Eau minérale naturelle,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,6191496000026,Eau minérale naturelle,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,6111243860413,Ice Pulpe Orange 1.5cl,brands,missing_value,Medium,None,Check the source and supply the information if it can be verified.
+beverages,beverages_page_003.json,6111243860413,Ice Pulpe Orange 1.5cl,quantity,missing_value,Low,None,Check the source and supply the information if it can be verified.
+beverages,beverages_page_003.json,6111243860413,Ice Pulpe Orange 1.5cl,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,8437019482329,Aqua sierra nevada,brands,missing_value,Medium,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_003.json,8437019482329,Aqua sierra nevada,quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_003.json,8437019482329,Aqua sierra nevada,ingredients_text,missing_value,Medium,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_003.json,8437019482329,Aqua sierra nevada,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,8437019482329,Aqua sierra nevada,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_003.json,8437019482329,Aqua sierra nevada,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,8437019482329,Aqua sierra nevada,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,8437019482329,Aqua sierra nevada,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,3033710071005,"Chicorée & Café, RICORÉ® Au Lait, Boîte de 400g",energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_003.json,3033710071005,"Chicorée & Café, RICORÉ® Au Lait, Boîte de 400g",proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,3033710071005,"Chicorée & Café, RICORÉ® Au Lait, Boîte de 400g",fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,3033710071005,"Chicorée & Café, RICORÉ® Au Lait, Boîte de 400g",carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,3270190113508,Eau de source de montagne d'auvergne,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,6111242109544,,product_name,missing_value,High,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_003.json,8024884600301,MONT BLANC Eau Minérale Naturelle 1.50 L,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,8002270015328,Eau minérale naturelle gazeuse 50cl PET,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,3664320011510,Eau minérale gazeuse,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,3664320011510,Eau minérale gazeuse,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_003.json,3664320011510,Eau minérale gazeuse,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,3664320011510,Eau minérale gazeuse,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,3664320011510,Eau minérale gazeuse,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,90418235,Hawaii,quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_003.json,90418235,Hawaii,ingredients_text,missing_value,Medium,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_003.json,90418235,Hawaii,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,90418235,Hawaii,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_003.json,90418235,Hawaii,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,90418235,Hawaii,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,90418235,Hawaii,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,5449000011527,fanta Orange,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,5021812000656,elderflower cordial,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,6191475200010,eau minérale naturelle,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,6191475200010,eau minérale naturelle,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_003.json,5449000318428,Hawai Tropical,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,5000112546415,Coca-Cola Original,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,5449000130389,"coca cola 1,75",allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,1200101017825,PET 1L OCEAN SPRAY CLASS,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,3502110006790,"Tropicana 100% oranges pressées sans pulpe format familial 1,5 L",allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,7613035833302,Perrier fines bulles,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,7613035833302,Perrier fines bulles,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_003.json,7613035833302,Perrier fines bulles,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,7613035833302,Perrier fines bulles,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,7613035833302,Perrier fines bulles,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,5449000232304,PET 1.25L FUZETEA PECHE HIB,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,6130093010069,,product_name,missing_value,High,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_003.json,6130093010069,,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,4056489517511,Oat Creamy plant based,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,3254691586115,Nectar de pommes - Doux - Bio,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,3124480186850,schweppes Indian tonic,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,4056489009979,Goody cao,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,4056489009979,Goody cao,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_003.json,4056489009979,Goody cao,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,4056489009979,Goody cao,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,4056489009979,Goody cao,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,5449000036919,HAWAI ANANAS 1l,brands,missing_value,Medium,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_003.json,5449000036919,HAWAI ANANAS 1l,quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_003.json,5449000036919,HAWAI ANANAS 1l,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,7613034579102,PERRIER eau minérale naturelle gazeuse,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,7613034579102,PERRIER eau minérale naturelle gazeuse,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_003.json,7613034579102,PERRIER eau minérale naturelle gazeuse,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,7613034579102,PERRIER eau minérale naturelle gazeuse,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,7613034579102,PERRIER eau minérale naturelle gazeuse,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,4002359006715,Lait de coco,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,6111180000194,Chocolat en poudre,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,6111128001092,Ghayt,brands,missing_value,Medium,None,Check the source and supply the information if it can be verified.
+beverages,beverages_page_003.json,6111128001092,Ghayt,quantity,missing_value,Low,None,Check the source and supply the information if it can be verified.
+beverages,beverages_page_003.json,6111128001092,Ghayt,ingredients_text,missing_value,Medium,None,Check the source and supply the information if it can be verified.
+beverages,beverages_page_003.json,6111128001092,Ghayt,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,3179730115821,CONTREX eau minérale naturelle 1L,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,3179730115821,CONTREX eau minérale naturelle 1L,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=0.0001; reported kJ=0.0001; kJ-converted kcal=0.0,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+beverages,beverages_page_003.json,5410221305108,Schweppes Agrumes Zero,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,3033710074518,,product_name,missing_value,High,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_003.json,3033710074518,,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,5449000214805,BTE 33CL SLIM FANTA ORANGE,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,5449000009067,Coca-Cola Sabor Original,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,3067140037898,Chicoree soluble nature bio 100g,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_003.json,3067140037898,Chicoree soluble nature bio 100g,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,3067140037898,Chicoree soluble nature bio 100g,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,3067140037898,Chicoree soluble nature bio 100g,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,8410014478733,ColaCao el Original,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_003.json,8410014478733,ColaCao el Original,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,8410014478733,ColaCao el Original,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,8410014478733,ColaCao el Original,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,3124480195319,PET 1.2L MAYTEA PECHE,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,6111179003847,Nectar Orange,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,3664346326872,Poulain Grand Arôme intense 70% de cacao,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,3664346326872,Poulain Grand Arôme intense 70% de cacao,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_003.json,3664346326872,Poulain Grand Arôme intense 70% de cacao,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,3664346326872,Poulain Grand Arôme intense 70% de cacao,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,3664346326872,Poulain Grand Arôme intense 70% de cacao,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,0078742040370,Purified Drinking Water,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,6111126003333,Raibi grenadine,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,6111126003333,Raibi grenadine,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_003.json,6111126003333,Raibi grenadine,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,6111126003333,Raibi grenadine,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,6111126003333,Raibi grenadine,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,3124480167170,Citronnade,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,5449000028921,Coca Cola,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,5013635330010,Coconut Milk,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,6111248360109,Ain Soltane,ingredients_text,missing_value,Medium,,Check the source and supply the information if it can be verified.
+beverages,beverages_page_003.json,6111248360109,Ain Soltane,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages,beverages_page_003.json,6111248360109,Ain Soltane,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_003.json,6111248360109,Ain Soltane,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,6111248360109,Ain Soltane,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,6111248360109,Ain Soltane,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,7613034916891,Nesquik Original,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+beverages,beverages_page_003.json,7613034916891,Nesquik Original,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,7613034916891,Nesquik Original,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+beverages,beverages_page_003.json,7613034916891,Nesquik Original,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+breakfast-cereals,breakfast-cereals_page_001.json,5010029000801,Weetabix,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=136.0; reported kJ=1446.25; kJ-converted kcal=345.7,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+breakfast-cereals,breakfast-cereals_page_001.json,5000108022152,BRITISH PORRIDGE OATS,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+breakfast-cereals,breakfast-cereals_page_001.json,3168930009078,Flocons d'avoine complète,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+breakfast-cereals,breakfast-cereals_page_001.json,5060043224561,Low Sugar Nuts & Seeds Granola imp,quantity,missing_value,Low,None,Check the source and supply the information if it can be verified.
+breakfast-cereals,breakfast-cereals_page_001.json,4088600056135,Organic Jumbo Porridge Oats,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+breakfast-cereals,breakfast-cereals_page_001.json,5099801003339,Organic Jumbo Oats,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+breakfast-cereals,breakfast-cereals_page_001.json,5000108280941,Original,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+breakfast-cereals,breakfast-cereals_page_001.json,5000108022176,PORAGE OATS ORIGINAL TRADITIONAL SMOOTH CUT,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+breakfast-cereals,breakfast-cereals_page_001.json,5000108022176,PORAGE OATS ORIGINAL TRADITIONAL SMOOTH CUT,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+breakfast-cereals,breakfast-cereals_page_001.json,5000108022176,PORAGE OATS ORIGINAL TRADITIONAL SMOOTH CUT,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+breakfast-cereals,breakfast-cereals_page_001.json,5000108022176,PORAGE OATS ORIGINAL TRADITIONAL SMOOTH CUT,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+breakfast-cereals,breakfast-cereals_page_001.json,5000108022176,PORAGE OATS ORIGINAL TRADITIONAL SMOOTH CUT,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+breakfast-cereals,breakfast-cereals_page_001.json,5059319030517,kelloggs corn flakes,quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+breakfast-cereals,breakfast-cereals_page_001.json,00130509,Wheat Biscuits,quantity,missing_value,Low,None,Check the source and supply the information if it can be verified.
+breakfast-cereals,breakfast-cereals_page_001.json,00130509,Wheat Biscuits,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=133.0; reported kJ=1515.7; kJ-converted kcal=362.3,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+breakfast-cereals,breakfast-cereals_page_001.json,5010029202410,Weetabix,quantity,missing_value,Low,None,Check the source and supply the information if it can be verified.
+breakfast-cereals,breakfast-cereals_page_001.json,5010029202410,Weetabix,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=272.0; reported kJ=1531.0; kJ-converted kcal=365.9,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+breakfast-cereals,breakfast-cereals_page_001.json,8480000229663,Corn Flakes 0% azúcares añadidos,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+breakfast-cereals,breakfast-cereals_page_001.json,20283360,Fiocchi di avena integrali,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=298.0; reported kJ=1567.25; kJ-converted kcal=374.6,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+breakfast-cereals,breakfast-cereals_page_002.json,5000108030904,Jumbo Oats,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+breakfast-cereals,breakfast-cereals_page_002.json,01242942,Sainbury’s whole grain malties,brands,missing_value,Medium,,Check the source and supply the information if it can be verified.
+breakfast-cereals,breakfast-cereals_page_002.json,01242942,Sainbury’s whole grain malties,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=361.0; reported kJ=458.0; kJ-converted kcal=109.5,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+breakfast-cereals,breakfast-cereals_page_002.json,4056489438564,Granola Coconut Cashew & Almond,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=960.0; reported kJ=1794.9; kJ-converted kcal=429.0,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+breakfast-cereals,breakfast-cereals_page_002.json,5099801003315,Organic Porridge Oats,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+breakfast-cereals,breakfast-cereals_page_002.json,5099801003315,Organic Porridge Oats,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+breakfast-cereals,breakfast-cereals_page_002.json,5099801003315,Organic Porridge Oats,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+breakfast-cereals,breakfast-cereals_page_002.json,5099801003315,Organic Porridge Oats,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+breakfast-cereals,breakfast-cereals_page_002.json,00130530,Wholewheat biscuits,quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+breakfast-cereals,breakfast-cereals_page_002.json,5010029219494,Redy Brek,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+breakfast-cereals,breakfast-cereals_page_002.json,4056489254157,Био овесени ядки,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+breakfast-cereals,breakfast-cereals_page_002.json,5000108030553,GOLDEN SYRUP FLAVOUR OAT SO SIMPLE,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+breakfast-cereals,breakfast-cereals_page_002.json,5000108030553,GOLDEN SYRUP FLAVOUR OAT SO SIMPLE,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=611.111111111111; reported kJ=1578.61111111111; kJ-converted kcal=377.3,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+breakfast-cereals,breakfast-cereals_page_002.json,5057545744765,PORRIDGE OATS,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+breakfast-cereals,breakfast-cereals_page_002.json,3564706604360,Muesli Chocolat-Noisette,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=335.0; reported kJ=1888.3; kJ-converted kcal=451.3,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+breakfast-cereals,breakfast-cereals_page_002.json,5059319024165,rice crispies,quantity,missing_value,Low,None,Check the source and supply the information if it can be verified.
+breakfast-cereals,breakfast-cereals_page_002.json,4056489462828,Porridge oats,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+breakfast-cereals,breakfast-cereals_page_002.json,3387390339505,,product_name,missing_value,High,,Check the source and supply the information if it can be verified.
+breakfast-cereals,breakfast-cereals_page_002.json,5059319002811,Raisin Wheats,quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+breakfast-cereals,breakfast-cereals_page_002.json,5059319002811,Raisin Wheats,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+breakfast-cereals,breakfast-cereals_page_002.json,20202859,,product_name,missing_value,High,,Check the source and supply the information if it can be verified.
+breakfast-cereals,breakfast-cereals_page_002.json,4088600169842,Very Berry Granola,quantity,missing_value,Low,None,Check the source and supply the information if it can be verified.
+breakfast-cereals,breakfast-cereals_page_002.json,8010265640202,Corn Flakes,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+breakfast-cereals,breakfast-cereals_page_002.json,5010029204247,"Weetabix, Crunchy Bran",quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+breakfast-cereals,breakfast-cereals_page_002.json,5010029013047,Ready brek original smooth porridge oats,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+breakfast-cereals,breakfast-cereals_page_002.json,5010029013047,Ready brek original smooth porridge oats,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=373.333333333333; reported kJ=2584.66666666667; kJ-converted kcal=617.8,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+breakfast-cereals,breakfast-cereals_page_002.json,3168930010869,,product_name,missing_value,High,,Check the source and supply the information if it can be verified.
+breakfast-cereals,breakfast-cereals_page_003.json,5059319013473,Blueberry Wheats,quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+breakfast-cereals,breakfast-cereals_page_003.json,5000108022190,Rolled Oats,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+breakfast-cereals,breakfast-cereals_page_003.json,01817942,"Fruit, Nut and Seed Muesli",quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+breakfast-cereals,breakfast-cereals_page_003.json,5000108478119,Quaker white oats,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+breakfast-cereals,breakfast-cereals_page_003.json,5000108675495,Original Microwaveable Oats,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+breakfast-cereals,breakfast-cereals_page_003.json,00410205,Scottish porridge oats,quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+breakfast-cereals,breakfast-cereals_page_003.json,00410205,Scottish porridge oats,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+breakfast-cereals,breakfast-cereals_page_003.json,00410205,Scottish porridge oats,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+breakfast-cereals,breakfast-cereals_page_003.json,00410205,Scottish porridge oats,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+breakfast-cereals,breakfast-cereals_page_003.json,00410205,Scottish porridge oats,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+breakfast-cereals,breakfast-cereals_page_003.json,6111250010948,,product_name,missing_value,High,,Check the source and supply the information if it can be verified.
+breakfast-cereals,breakfast-cereals_page_003.json,6111250474894,Flocons d’avoine,brands,missing_value,Medium,None,Check the source and supply the information if it can be verified.
+breakfast-cereals,breakfast-cereals_page_003.json,6111250474894,Flocons d’avoine,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+breakfast-cereals,breakfast-cereals_page_003.json,00358132,Puffed Wheat,quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+breakfast-cereals,breakfast-cereals_page_003.json,7613031473090,Shredded Wheat 16s imp,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+breakfast-cereals,breakfast-cereals_page_003.json,01117404,,product_name,missing_value,High,,Check the source and supply the information if it can be verified.
+breakfast-cereals,breakfast-cereals_page_003.json,01117404,,brands,missing_value,Medium,,Check the source and supply the information if it can be verified.
+breakfast-cereals,breakfast-cereals_page_003.json,01117404,,quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+breakfast-cereals,breakfast-cereals_page_003.json,01117404,,ingredients_text,missing_value,Medium,,Check the source and supply the information if it can be verified.
+breakfast-cereals,breakfast-cereals_page_003.json,01117404,,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+breakfast-cereals,breakfast-cereals_page_003.json,01117404,,categories_tags,missing_value,Medium,[],Check the source and supply the information if it can be verified.
+breakfast-cereals,breakfast-cereals_page_003.json,01117404,,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+breakfast-cereals,breakfast-cereals_page_003.json,01117404,,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+breakfast-cereals,breakfast-cereals_page_003.json,01117404,,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+breakfast-cereals,breakfast-cereals_page_003.json,01117404,,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+breakfast-cereals,breakfast-cereals_page_003.json,4088600169910,Really Nutty Muesli,quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+breakfast-cereals,breakfast-cereals_page_003.json,0030000010402,Old Fashioned 100% Whole Grain Oats,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+breakfast-cereals,breakfast-cereals_page_003.json,5011766778008,Organic Chocolate Stars,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+breakfast-cereals,breakfast-cereals_page_003.json,0058449771890,Mesa Sunrise Gluten Free Cereal Flakes,quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+breakfast-cereals,breakfast-cereals_page_003.json,0058449771890,Mesa Sunrise Gluten Free Cereal Flakes,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+breakfast-cereals,breakfast-cereals_page_003.json,5900020043306,Lion Caramel & Chocolate,ingredients_text,missing_value,Medium,None,Check the source and supply the information if it can be verified.
+breakfast-cereals,breakfast-cereals_page_003.json,5900020043306,Lion Caramel & Chocolate,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+breakfast-cereals,breakfast-cereals_page_003.json,5900020043306,Lion Caramel & Chocolate,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+breakfast-cereals,breakfast-cereals_page_003.json,5900020043306,Lion Caramel & Chocolate,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+breakfast-cereals,breakfast-cereals_page_003.json,5900020043306,Lion Caramel & Chocolate,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+breakfast-cereals,breakfast-cereals_page_003.json,5900020043306,Lion Caramel & Chocolate,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+breakfast-cereals,breakfast-cereals_page_003.json,4088600248592,Fruit & Fibre,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=470.0; reported kJ=1532.0; kJ-converted kcal=366.2,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+breakfast-cereals,breakfast-cereals_page_003.json,29310609,Wholegrain Wheat Bisks,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+breakfast-cereals,breakfast-cereals_page_003.json,29310609,Wholegrain Wheat Bisks,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+breakfast-cereals,breakfast-cereals_page_003.json,29310609,Wholegrain Wheat Bisks,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+breakfast-cereals,breakfast-cereals_page_003.json,29310609,Wholegrain Wheat Bisks,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+breakfast-cereals,breakfast-cereals_page_003.json,5000108589945,Golden Syrup Flavour Hot Oat Cereal,quantity,missing_value,Low,None,Check the source and supply the information if it can be verified.
+snacks,snacks_page_001.json,3046920029759,Edelbitter-Schokolade,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_001.json,3046920028004,Lindt Excellence 70% Cocoa,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=570.0; reported kJ=1788.0; kJ-converted kcal=427.3,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+snacks,snacks_page_001.json,3046920028363,Excellence 85% Cacao Rich Dark,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_001.json,7622210578464,Organic 70% Dark Chocolate Bar,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_001.json,6111259343108,KING COOKIES,quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+snacks,snacks_page_001.json,6111259343108,KING COOKIES,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_001.json,3046920022651,Excellence 70% cacao noir intense,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_001.json,5060042641000,Lightly sea salted crisps,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_001.json,7622210584724,Dark chocolate,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_001.json,3046920022606,Excellence 85% cacao,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_001.json,06175700,Tartines craquantes au sarrasin imp,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_001.json,6111252860077,Trios,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_001.json,6111245591063,Dalaa 550 feuilles,brands,missing_value,Medium,None,Check the source and supply the information if it can be verified.
+snacks,snacks_page_001.json,6111245591063,Dalaa 550 feuilles,quantity,missing_value,Low,None,Check the source and supply the information if it can be verified.
+snacks,snacks_page_001.json,6111245591063,Dalaa 550 feuilles,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_001.json,6111245591063,Dalaa 550 feuilles,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+snacks,snacks_page_001.json,6111245591063,Dalaa 550 feuilles,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_001.json,6111245591063,Dalaa 550 feuilles,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_001.json,6111245591063,Dalaa 550 feuilles,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_001.json,20095291,NEGRO 70% CACAO,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=544.0; reported kJ=283.7; kJ-converted kcal=67.8,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+snacks,snacks_page_001.json,8410076801180,Crunchy oats&honey,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_001.json,7613035040823,Nestlé dessert Noir,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_001.json,6111259343344,King cookies choco,quantity,missing_value,Low,None,Check the source and supply the information if it can be verified.
+snacks,snacks_page_001.json,10614594,BIO Basmati Reis Vollkorn,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=178.823529411765; reported kJ=1957.4; kJ-converted kcal=467.8,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+snacks,snacks_page_001.json,5059697731860,Dark Chocolate,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_001.json,5017764128104,Chips,quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+snacks,snacks_page_001.json,5017764128104,Chips,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_001.json,06153153,Tartines craquantes quinoa - pois chiche sans gluten,quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+snacks,snacks_page_001.json,06153153,Tartines craquantes quinoa - pois chiche sans gluten,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_001.json,8410076610737,Protein Cacahuetes🥜 & Chocolat🍫,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=194.789674952199; reported kJ=2038.0; kJ-converted kcal=487.1,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+snacks,snacks_page_001.json,5013665111610,LIGHTLY SALTED LOW FAT CORN CAKES,quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+snacks,snacks_page_001.json,5013665111610,LIGHTLY SALTED LOW FAT CORN CAKES,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_001.json,6111259347021,,product_name,missing_value,High,None,Check the source and supply the information if it can be verified.
+snacks,snacks_page_001.json,6111259347021,,brands,missing_value,Medium,None,Check the source and supply the information if it can be verified.
+snacks,snacks_page_001.json,6111259347021,,quantity,missing_value,Low,None,Check the source and supply the information if it can be verified.
+snacks,snacks_page_001.json,6111242380219,,product_name,missing_value,High,,Check the source and supply the information if it can be verified.
+snacks,snacks_page_001.json,6111242380219,,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+snacks,snacks_page_001.json,6111242380219,,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_001.json,6111242380219,,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_001.json,6111242380219,,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_001.json,3175681105423,Cookie cacao pépites Sans Sucre,energy-kcal_100g,nutrition_value_out_of_range,High,3833.33333333333,Check the value and unit. Values outside 0–1000 per 100 g need investigation.
+snacks,snacks_page_001.json,3175681105423,Cookie cacao pépites Sans Sucre,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=3833.33333333333; reported kJ=1728.0; kJ-converted kcal=413.0,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+snacks,snacks_page_001.json,3228857001378,Brioche moins de sucre,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+snacks,snacks_page_001.json,3228857001378,Brioche moins de sucre,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_001.json,3228857001378,Brioche moins de sucre,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_001.json,3228857001378,Brioche moins de sucre,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_001.json,5013665115373,Lentil & Pea Veggie Cakes Beetroot & Balsamic,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_001.json,6111025120605,Chocolat monogram,quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+snacks,snacks_page_001.json,6111032006718,Danette,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+snacks,snacks_page_001.json,6111032006718,Danette,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_001.json,6111032006718,Danette,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_001.json,6111032006718,Danette,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_002.json,7622201809638,Napolitain l'Original,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+snacks,snacks_page_002.json,7622201809638,Napolitain l'Original,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_002.json,7622201809638,Napolitain l'Original,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_002.json,7622201809638,Napolitain l'Original,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_002.json,5060283762199,Sea Salt Lentil Chips,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_002.json,6923818881323,Petits fours financiers,brands,missing_value,Medium,None,Check the source and supply the information if it can be verified.
+snacks,snacks_page_002.json,6923818881323,Petits fours financiers,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_002.json,3175681066632,Biscuits pavot citron,energy-kcal_100g,nutrition_value_out_of_range,High,1896,Check the value and unit. Values outside 0–1000 per 100 g need investigation.
+snacks,snacks_page_002.json,3175681066632,Biscuits pavot citron,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=1896.0; reported kJ=1905.0; kJ-converted kcal=455.3,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+snacks,snacks_page_002.json,0612322000127,Super Seeded Oatcakes,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=93.0; reported kJ=1919.0; kJ-converted kcal=458.7,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+snacks,snacks_page_002.json,5060283760072,Sweet & Salty Popcorn,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_002.json,3336971805021,Chips de lentilles saveur fines herbes,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_002.json,20713713,Chocolat noir Equateur Bio,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_002.json,6111249961466,,product_name,missing_value,High,None,Check the source and supply the information if it can be verified.
+snacks,snacks_page_002.json,8480000142429,Trigo espelta 0% azucares,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+snacks,snacks_page_002.json,8480000142429,Trigo espelta 0% azucares,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_002.json,8480000142429,Trigo espelta 0% azucares,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_002.json,8480000142429,Trigo espelta 0% azucares,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_002.json,3168930002987,Cuites au four nature,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_002.json,7622201444327,,product_name,missing_value,High,,Check the source and supply the information if it can be verified.
+snacks,snacks_page_002.json,7622201444327,,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_002.json,7622201444327,,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+snacks,snacks_page_002.json,7622201444327,,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_002.json,7622201444327,,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_002.json,7622201444327,,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_002.json,20815882,Chocolate negro. Cacao 95% mínimo,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_002.json,20177201,Шоколад с 6% парченца малини,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=552.0; reported kJ=286.0; kJ-converted kcal=68.4,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+snacks,snacks_page_002.json,3046920029681,Excellence Noir Délicat Doux 85% Cacao,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_002.json,6111031005095,,product_name,missing_value,High,,Check the source and supply the information if it can be verified.
+snacks,snacks_page_002.json,3034470003107,Benco Original,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_002.json,3034470003107,Benco Original,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+snacks,snacks_page_002.json,3034470003107,Benco Original,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_002.json,3034470003107,Benco Original,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_002.json,3034470003107,Benco Original,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_002.json,6111180010414,Chocao energie,brands,missing_value,Medium,None,Check the source and supply the information if it can be verified.
+snacks,snacks_page_002.json,6111180010414,Chocao energie,quantity,missing_value,Low,None,Check the source and supply the information if it can be verified.
+snacks,snacks_page_002.json,6111180010414,Chocao energie,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_002.json,6111180010414,Chocao energie,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_002.json,6111017042403,,product_name,missing_value,High,,Check the source and supply the information if it can be verified.
+snacks,snacks_page_002.json,6111017042403,,quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+snacks,snacks_page_002.json,6111017046470,délice noir,quantity,missing_value,Low,None,Check the source and supply the information if it can be verified.
+snacks,snacks_page_002.json,6111017046470,délice noir,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_002.json,3760020508012,Tartines craquantes Sarrasin,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_002.json,6111243570138,,product_name,missing_value,High,None,Check the source and supply the information if it can be verified.
+snacks,snacks_page_002.json,6111243570138,,brands,missing_value,Medium,None,Check the source and supply the information if it can be verified.
+snacks,snacks_page_002.json,6111243570138,,ingredients_text,missing_value,Medium,None,Check the source and supply the information if it can be verified.
+snacks,snacks_page_002.json,6111243570138,,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+snacks,snacks_page_002.json,6111243570138,,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_002.json,6111243570138,,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_002.json,6111243570138,,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_002.json,5060283760669,Sweet & Salty Popcorn,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_003.json,4088600132334,Dark Chocolate,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_003.json,4088600132334,Dark Chocolate,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_003.json,4088600132334,Dark Chocolate,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_003.json,3700214611548,Noir equitable 85% Pérou,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_003.json,6111031005279,,product_name,missing_value,High,,Check the source and supply the information if it can be verified.
+snacks,snacks_page_003.json,5060283760812,SWEET & SALTY POPCORN,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_003.json,6111259346710,Supreme Original,ingredients_text,missing_value,Medium,None,Check the source and supply the information if it can be verified.
+snacks,snacks_page_003.json,3760091722508,Chocolat noir 85% Madagascar,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_003.json,8000500037560,bueno,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+snacks,snacks_page_003.json,8000500037560,bueno,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_003.json,8000500037560,bueno,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_003.json,8000500037560,bueno,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_003.json,00130509,Wheat Biscuits,quantity,missing_value,Low,None,Check the source and supply the information if it can be verified.
+snacks,snacks_page_003.json,00130509,Wheat Biscuits,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=133.0; reported kJ=1515.7; kJ-converted kcal=362.3,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+snacks,snacks_page_003.json,3270190127765,Chocolate negro,allergens,placeholder_value,Medium,none,Verify the information or retain it as missing.
+snacks,snacks_page_003.json,6111265980229,Nutabella,brands,placeholder_value,Medium,null,Verify the information or retain it as missing.
+snacks,snacks_page_003.json,6111265980229,Nutabella,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_003.json,5060719920001,Absolute black dark chocolate,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_003.json,6111255771196,Noisetta,quantity,missing_value,Low,None,Check the source and supply the information if it can be verified.
+snacks,snacks_page_003.json,6111259341654,eyoo,quantity,missing_value,Low,None,Check the source and supply the information if it can be verified.
+snacks,snacks_page_003.json,20022471,Čokoláda na vaření,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_003.json,5059697684616,Dark Chocolate,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_003.json,7622210834713,Milka wholenut,quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+snacks,snacks_page_003.json,7622210834713,Milka wholenut,ingredients_text,missing_value,Medium,,Check the source and supply the information if it can be verified.
+snacks,snacks_page_003.json,7622210834713,Milka wholenut,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_003.json,8410076600790,Nature Valley Crunchy Oats & Honey,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_003.json,3041090061615,Cracotte Chocolat,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+snacks,snacks_page_003.json,3041090061615,Cracotte Chocolat,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_003.json,3041090061615,Cracotte Chocolat,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_003.json,3041090061615,Cracotte Chocolat,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_003.json,8410076481597,Tortilla Nachips Original,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_003.json,6111017046043,Tentation aiguebelle,quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+snacks,snacks_page_003.json,8410376033267,Digestive Avena,energy-kcal_100g,nutrition_value_out_of_range,High,3305.10948905109,Check the value and unit. Values outside 0–1000 per 100 g need investigation.
+snacks,snacks_page_003.json,8410376033267,Digestive Avena,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=3305.10948905109; reported kJ=1835.0; kJ-converted kcal=438.6,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+snacks,snacks_page_003.json,5000159535267,Dark Chocolate Almonds,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=407.5; reported kJ=2170.0; kJ-converted kcal=518.6,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+snacks,snacks_page_003.json,6111243570169,Matina,brands,missing_value,Medium,None,Check the source and supply the information if it can be verified.
+snacks,snacks_page_003.json,6111243570169,Matina,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+snacks,snacks_page_003.json,6111243570169,Matina,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_003.json,6111243570169,Matina,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_003.json,6111243570169,Matina,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_003.json,8000500359488,90G FERRERO ROCHER TABLETTE LT,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+snacks,snacks_page_003.json,8000500359488,90G FERRERO ROCHER TABLETTE LT,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_003.json,8000500359488,90G FERRERO ROCHER TABLETTE LT,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_003.json,8000500359488,90G FERRERO ROCHER TABLETTE LT,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_003.json,6111017045329,Napolitain Noir,energy,missing_nutrition_value,Medium,,Check whether energy information is available.
+snacks,snacks_page_003.json,6111017045329,Napolitain Noir,proteins_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_003.json,6111017045329,Napolitain Noir,fat_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_003.json,6111017045329,Napolitain Noir,carbohydrates_100g,missing_nutrition_value,Medium,,Check the source for the missing nutrition value.
+snacks,snacks_page_003.json,6111031005194,Oreo Original,quantity,missing_value,Low,,Check the source and supply the information if it can be verified.
+snacks,snacks_page_003.json,5017764128128,sea salt & BALSAMIC vinegar of modena,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+snacks,snacks_page_003.json,5053990101542,pringles hot & spicy,energy-kcal_100g,nutrition_value_out_of_range,High,1736.66666666667,Check the value and unit. Values outside 0–1000 per 100 g need investigation.
+snacks,snacks_page_003.json,5053990101542,pringles hot & spicy,energy-kcal_100g,energy_unit_inconsistency,High,Reported kcal=1736.66666666667; reported kJ=2175.0; kJ-converted kcal=519.8,Verify both energy values against the original nutrition label. Do not overwrite automatically.
+snacks,snacks_page_003.json,5016451062110,Sea Salted Potato Crisps,allergens,missing_value,Medium,,Check the source or product packaging. A blank field does not mean allergen-free.
+beverages; snacks,beverages_page_002.json; snacks_page_002.json,3034470003107,Benco Original,barcode,cross_category_overlap,Low,"2 records; categories: beverages, snacks",Review category membership. Do not delete automatically.
+breakfast-cereals; snacks,breakfast-cereals_page_001.json; snacks_page_001.json,5000119117359,Wheat Biscuits,barcode,cross_category_overlap,Low,"2 records; categories: breakfast-cereals, snacks",Review category membership. Do not delete automatically.
+breakfast-cereals; snacks,breakfast-cereals_page_001.json; snacks_page_002.json,20471613,wholegrain wheat bixies,barcode,cross_category_overlap,Low,"2 records; categories: breakfast-cereals, snacks",Review category membership. Do not delete automatically.
+breakfast-cereals; snacks,breakfast-cereals_page_001.json; snacks_page_003.json,00130509,Wheat Biscuits,barcode,cross_category_overlap,Low,"2 records; categories: breakfast-cereals, snacks",Review category membership. Do not delete automatically.
