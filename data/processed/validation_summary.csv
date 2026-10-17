@@ -2,7 +2,7 @@
 beverages,missing_nutrition_value,Medium,277
 beverages,missing_value,Medium,232
 beverages,missing_value,Low,26
-beverages,energy_unit_inconsistency,High,14
+beverages,energy_unit_inconsistency,High,11
 beverages,missing_value,High,9
 beverages,placeholder_value,Medium,2
 beverages; snacks,cross_category_overlap,Low,1

@@ -379,12 +379,13 @@ def main():
             ):
                 expected_kcal = kj / 4.184
 
+                absolute_difference = abs(kcal - expected_kcal)
                 relative_difference = (
-                    abs(kcal - expected_kcal) / expected_kcal
+                    absolute_difference / expected_kcal
                 )
 
-                # Allow a generous 20% tolerance for initial screening.
-                if relative_difference > 0.20:
+                # Flag substantial disagreements, not negligible differences.
+                if relative_difference > 0.20 and absolute_difference > 5:
                     add_issue(
                         issues,
                         source_category,
